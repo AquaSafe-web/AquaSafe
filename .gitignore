@@ -1,0 +1,11 @@
+﻿node_modules/
+venv/
+.env
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.idea/
+.vscode/
+image/GitHubDesktopSetup-x64.exe
+video/jugando.mp4
